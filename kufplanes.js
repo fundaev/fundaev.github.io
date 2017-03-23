@@ -39,7 +39,8 @@
         "B-737": "https://cdn.jetphotos.com/full/5/73547_1483639238.jpg"
     },
     "РусЛайн": {
-        "CRJ-200": "https://cdn.jetphotos.com/full/6/62420_1459063410.jpg"
+        "CRJ-100": "https://cdn.jetphotos.com/full/6/62420_1459063410.jpg",
+        "CRJ-200": "https://cdn.jetphotos.com/full/5/59541_1483876186.jpg"
     },
     "КрасАвиа": {
         "ЯК-42": "https://cdn.jetphotos.com/full/5/70870_1468466236.jpg"
