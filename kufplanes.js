@@ -57,7 +57,7 @@
         "B-737": "http://imgproc.airliners.net/photos/airliners/7/9/7/4252797.jpg?v=v4443a784df1",
         "B-747": "http://imgproc.airliners.net/photos/airliners/3/3/9/4130933.jpg?v=v4973c717969",
         "B-777": "http://imgproc.airliners.net/photos/airliners/3/2/5/4245523.jpg?v=v4e0c840f2b1"
-    }.
+    },
     "РедВингс": {
         "B-757": "https://d31asmy75eposw.cloudfront.net/full/5/24781_1479390950.jpg"
     }
