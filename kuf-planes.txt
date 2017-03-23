@@ -1,0 +1,12 @@
+Аэрофлот РА;A-320;https://d31asmy75eposw.cloudfront.net/full/5/51845_1479971481.jpg
+
+Сибирь;A-320;https://d31asmy75eposw.cloudfront.net/full/6/82747_1453814471.jpg
+
+ЮТэйр;B-737;https://d31asmy75eposw.cloudfront.net/full/6/45236_1465980581.jpg
+
+Оренбуржье;Л-410;http://cdn-www.airliners.net/photos/airliners/9/3/9/2318939.jpg?v=v40
+
+Победа;B-737-800;https://d31asmy75eposw.cloudfront.net/full/6/52958_1456698403.jpg
+
+РедВингс;B-757;https://d31asmy75eposw.cloudfront.net/full/5/24781_1479390950.jpg
+
