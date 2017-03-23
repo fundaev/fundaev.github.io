@@ -6,7 +6,8 @@
         "A-330": "https://cdn.jetphotos.com/full/6/23168_1488093207.jpg",
         "B-737-8": "https://cdn.jetphotos.com/full/5/42876_1488984424.jpg",
         "B-767": "https://cdn.jetphotos.com/full/3/45214_1355278129.jpg",
-        "B-777": "https://cdn.jetphotos.com/full/6/69912_1486023778.jpg"
+        "B-777": "https://cdn.jetphotos.com/full/6/69912_1486023778.jpg",
+        "RRJ-95": "https://cdn.jetphotos.com/full/5/40669_1482528953.jpg"
     },
     "Сибирь": {
         "A-319": "https://cdn.jetphotos.com/full/6/17218_1443373767.jpg",
