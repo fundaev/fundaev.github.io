@@ -15,7 +15,7 @@
         "B-737-8": "https://cdn.jetphotos.com/full/6/20284_1471696989.jpg"
     },
     "ЮТэйр": {
-        "B-737-8": "https://cdn.jetphotos.com/full/5/88374_1486741137.jpg"
+        "B-737-8": "https://cdn.jetphotos.com/full/5/88374_1486741137.jpg",
         "B-737-5": "https://cdn.jetphotos.com/full/6/89675_1486320265.jpg",
         "B-737-4": "https://cdn.jetphotos.com/full/5/25319_1479210127.jpg",
         "B-767": "https://cdn.jetphotos.com/full/6/73286_1483892964.jpg",
