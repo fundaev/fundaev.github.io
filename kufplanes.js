@@ -15,7 +15,11 @@
         "B-737-8": "https://cdn.jetphotos.com/full/6/20284_1471696989.jpg"
     },
     "ЮТэйр": {
-        "B-737": "https://d31asmy75eposw.cloudfront.net/full/6/45236_1465980581.jpg"
+        "B-737-8": "https://cdn.jetphotos.com/full/5/88374_1486741137.jpg"
+        "B-737-5": "https://cdn.jetphotos.com/full/6/89675_1486320265.jpg",
+        "B-737-4": "https://cdn.jetphotos.com/full/5/25319_1479210127.jpg",
+        "B-767": "https://cdn.jetphotos.com/full/6/73286_1483892964.jpg",
+        "ATR-72": "https://cdn.jetphotos.com/full/5/88051_1487442684.jpg"
     },
     "Оренбуржье": {
         "Л-410": "http://cdn-www.airliners.net/photos/airliners/9/3/9/2318939.jpg?v=v40"
@@ -23,6 +27,37 @@
     "Победа": {
         "B-737-800": "https://d31asmy75eposw.cloudfront.net/full/6/52958_1456698403.jpg"
     },
+    "Уральские авиалинии": {
+        "A-319": "https://cdn.jetphotos.com/full/5/35298_1463830304.jpg",
+        "A-320": "https://cdn.jetphotos.com/full/5/32491_1476308008.jpg",
+        "A-321": "https://cdn.jetphotos.com/full/6/82002_1483723294.jpg"
+    },
+    "Алроса": {
+        "B-737-8": "https://cdn.jetphotos.com/full/5/68894_1469558529.jpg"
+    },
+    "Нордавиа": {
+        "B-737": "https://cdn.jetphotos.com/full/5/73547_1483639238.jpg"
+    },
+    "РусЛайн": {
+        "CRJ-200": "https://cdn.jetphotos.com/full/6/62420_1459063410.jpg"
+    },
+    "КрасАвиа": {
+        "ЯК-42": "https://cdn.jetphotos.com/full/5/70870_1468466236.jpg"
+    },
+    "Декстер": {
+        "PC-12": "https://cdn.jetphotos.com/full/5/34270_1405012365.jpg"
+    },
+    "Азур эйр": {
+        "B-757": "https://cdn.jetphotos.com/full/5/42285_1487164324.jpg",
+        "B-767": "https://cdn.jetphotos.com/full/6/39200_1484409298.jpg"
+    },
+    "Россия": {
+        "A-319": "http://imgproc.airliners.net/photos/airliners/1/6/1/4265161.jpg?v=v458776fe589",
+        "A-320": "http://imgproc.airliners.net/photos/airliners/3/9/9/4258993.jpg?v=v43708970161",
+        "B-737": "http://imgproc.airliners.net/photos/airliners/7/9/7/4252797.jpg?v=v4443a784df1",
+        "B-747": "http://imgproc.airliners.net/photos/airliners/3/3/9/4130933.jpg?v=v4973c717969",
+        "B-777": "http://imgproc.airliners.net/photos/airliners/3/2/5/4245523.jpg?v=v4e0c840f2b1"
+    }.
     "РедВингс": {
         "B-757": "https://d31asmy75eposw.cloudfront.net/full/5/24781_1479390950.jpg"
     }
