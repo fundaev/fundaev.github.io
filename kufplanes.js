@@ -20,7 +20,8 @@
         "B-737-5": "https://cdn.jetphotos.com/full/6/89675_1486320265.jpg",
         "B-737-4": "https://cdn.jetphotos.com/full/5/25319_1479210127.jpg",
         "B-767": "https://cdn.jetphotos.com/full/6/73286_1483892964.jpg",
-        "ATR-72": "https://cdn.jetphotos.com/full/5/88051_1487442684.jpg"
+        "ATR-72": "https://cdn.jetphotos.com/full/5/88051_1487442684.jpg",
+        "AT-72": "https://cdn.jetphotos.com/full/5/88051_1487442684.jpg"
     },
     "Оренбуржье": {
         "Л-410": "http://cdn-www.airliners.net/photos/airliners/9/3/9/2318939.jpg?v=v40"
@@ -59,6 +60,15 @@
         "B-737": "http://imgproc.airliners.net/photos/airliners/7/9/7/4252797.jpg?v=v4443a784df1",
         "B-747": "http://imgproc.airliners.net/photos/airliners/3/3/9/4130933.jpg?v=v4973c717969",
         "B-777": "http://imgproc.airliners.net/photos/airliners/3/2/5/4245523.jpg?v=v4e0c840f2b1"
+    },
+    "Czech Airlines": {
+        "A-319": "https://cdn.jetphotos.com/full/5/12994_1486984116.jpg",
+        "A-330": "https://cdn.jetphotos.com/full/5/53878_1477906547.jpg",
+        "ATR-42": "https://cdn.jetphotos.com/full/5/51826_1486658162.jpg",
+        "ATR-72": "https://cdn.jetphotos.com/full/5/70918_1478021365.jpg"
+    },
+    "ЮВТ Аэро": {
+        "CRJ-200": "http://imgproc.airliners.net/photos/airliners/5/0/9/2815905.jpg?v=v40"
     },
     "РедВингс": {
         "B-757": "https://d31asmy75eposw.cloudfront.net/full/5/24781_1479390950.jpg"
