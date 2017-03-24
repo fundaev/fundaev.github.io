@@ -67,7 +67,7 @@
         "ATR-42": "https://cdn.jetphotos.com/full/5/51826_1486658162.jpg",
         "ATR-72": "https://cdn.jetphotos.com/full/5/70918_1478021365.jpg"
     },
-    "ЮВТ Аэро": {
+    "ЮВТ Аэро": {
         "CRJ-200": "http://imgproc.airliners.net/photos/airliners/5/0/9/2815905.jpg?v=v40"
     },
     "РедВингс": {
